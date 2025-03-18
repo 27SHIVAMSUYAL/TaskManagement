@@ -3,6 +3,22 @@
 A **Task Management Application** built using the **MERN stack** (MongoDB, Express.js, React, Node.js) with **Redis caching** to enhance performance. This application allows users to **add, update, delete, and mark tasks as complete** while ensuring **fast data retrieval with Redis**.  
 
 ---
+## 📸 Screenshots  
+
+### 🏠 Login Page  
+![login Page](demo/login.png)  
+
+### 📋 Profile
+![profile ](demo/profile.png)  
+
+### ✅ Register Page
+![register ](demo/register.png)  
+
+### ✅ Redis
+![redis ](demo/redis-dashboard-upstash.png) 
+
+### ✅ Filter  
+![high filter ](demo/high_filter.png)  
 
 ## 🚀 Tech Stack  
 
