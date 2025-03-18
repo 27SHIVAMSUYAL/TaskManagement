@@ -1,6 +1,3 @@
-Here’s a **README.md** file for your project:  
-
----
 
 # **Task Management Application** 🚀  
 
@@ -118,6 +115,3 @@ Feel free to fork this repository, raise issues, or submit pull requests!
 ## **License** 📜  
 This project is open-source and available under the **MIT License**.  
 
----
-
-Let me know if you want to add anything specific! 🚀
