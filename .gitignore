@@ -1,0 +1,42 @@
+# Node.js dependencies
+backend/node_modules/
+frontend/node_modules/
+
+# Build and production files
+backend/dist/
+frontend/dist/
+backend/build/
+frontend/build/
+
+# Logs
+backend/logs/
+frontend/logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+backend/.env
+frontend/.env
+
+# Cache and temporary files
+backend/.cache/
+frontend/.cache/
+.DS_Store
+Thumbs.db
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.iml
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS-specific files
+*.DS_Store
+*.vscode
+*.vs
