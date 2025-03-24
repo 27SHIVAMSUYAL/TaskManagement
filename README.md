@@ -1,6 +1,6 @@
 # 📝 Task Management Application  
 
-A **Task Management Application** built using the **MERN stack** (MongoDB, Express.js, React, Node.js) with **Redis caching** to enhance performance. This application allows users to **add, update, delete, and mark tasks as complete** while ensuring **fast data retrieval with Redis**.  
+**Task Management Application** built using the **MERN stack** (MongoDB, Express.js, React, Node.js) with **Redis caching** to enhance performance. This application allows users to **add, update, delete, and mark tasks as complete** while ensuring **fast data retrieval with Redis**.  
 
 ---
 ## 📸 Screenshots  
